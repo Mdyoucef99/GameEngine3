@@ -1,0 +1,2 @@
+C:\Users\Asus\Desktop\GameEngine3\YRTPProject\Intermediate\Build\Win64\UE4Editor\Development\YRTPProject\Definitions.YRTPProject.h
+C:\Users\Asus\Desktop\GameEngine3\YRTPProject\Source\YRTPProject\YRTPProject.h
