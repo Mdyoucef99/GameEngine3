@@ -2,10 +2,6 @@
 	"BuildId": "5660361",
 	"Modules": 
 	{
-<<<<<<< HEAD
-		"YRTPProject": "UE4Editor-YRTPProject-6271.dll"
-=======
 		"YRTPProject": "UE4Editor-YRTPProject.dll"
->>>>>>> Youcef
 	}
 }
